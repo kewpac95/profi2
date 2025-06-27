@@ -1,6 +1,11 @@
 # PROFIS: Design of target-focused libraries by probing continuous fingerprint space with recurrent neural networks
 Hubert Rybka, Tomasz Danel, Sabina Podlewska
 
+
+ ## Update:
+ Most important are train_small, rl_fp_dap_py, RNN_config, net.py, and utils files - these files allow to train the model with transformer decoder and RL environment. 
+
+
 ## Table of contents
 
 <p align="center">
